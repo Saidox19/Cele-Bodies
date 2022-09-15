@@ -294,7 +294,7 @@ INSERT INTO public.moon VALUES (16, 'Moroutodun', 56, 5, NULL, NULL, NULL, 'Irep
 INSERT INTO public.moon VALUES (17, 'Aiyedaade', 23, 1, NULL, NULL, NULL, 'Irepodun street', 8);
 INSERT INTO public.moon VALUES (18, ' Ike Adubi', 45, 3, NULL, NULL, NULL, 'Olaiya street', 17);
 INSERT INTO public.moon VALUES (19, 'Moroutodun', 56, 5, NULL, NULL, NULL, 'Ipoodun', 11);
-INSERT INTO public.moon VALUES (20, 'Aiyedaade', 23, 1, NULL, NULL, NULL, 'Irepodun stret', 8);
+INSERT INTO public.moon VALUES (20, 'Aiyedade', 23, 1, NULL, NULL, NULL, 'Irepodun stret', 8);
 
 
 --
